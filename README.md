@@ -1,5 +1,5 @@
 # devLogs
-A curated collection of diverse resources spanning various fields.
+A curated collection of diverse resources spanning various fields, I am collecting to fall back on.
 
 ### Game Development
 |Resource|Description|
