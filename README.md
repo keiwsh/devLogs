@@ -12,3 +12,8 @@ A collection of diverse resources spanning various fields which interest me.
 |Resource|Description|
 |---|---|
 |[Freesound](https://freesound.org/)|Database of creative-commons licensed sounds.|
+
+### Ruby
+|Resource|Description|
+|---|---|
+|[Launchschool](https://launchschool.com/books/ruby/read/introduction)|An introduction to Ruby.|
