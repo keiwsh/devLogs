@@ -18,3 +18,8 @@ A collection of diverse resources spanning various fields which interest me.
 |---|---|
 |[Launchschool](https://launchschool.com/books/ruby/read/introduction)|An introduction to Ruby.|
 |[Rubymonstas](https://ruby-for-beginners.rubymonstas.org/index.html)|Ruby for Beginners.|
+
+### Tailwind
+|Resource|Description|
+|---|---|
+|[UiColors](https://uicolors.app/create)|Tailwind CSS Color Generator|
