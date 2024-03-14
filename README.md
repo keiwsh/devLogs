@@ -17,3 +17,4 @@ A collection of diverse resources spanning various fields which interest me.
 |Resource|Description|
 |---|---|
 |[Launchschool](https://launchschool.com/books/ruby/read/introduction)|An introduction to Ruby.|
+|[Rubymonstas](https://ruby-for-beginners.rubymonstas.org/index.html)|Ruby for Beginners.|
