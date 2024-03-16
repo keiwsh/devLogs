@@ -11,7 +11,12 @@ A collection of diverse resources spanning various fields which interest me.
 ### Audio
 |Resource|Description|
 |---|---|
-|[Freesound](https://freesound.org/)|Database of creative-commons licensed sounds.|
+|[Freesound](https://freesound.org/)|Complete documentation of the Framer Motion animation library. A production-ready motion library for React.|
+
+### React
+|Resource|Description|
+|---|---|
+|[Framer Motion](https://www.framer.com/motion/)|Database of creative-commons licensed sounds.|
 
 ### Ruby
 |Resource|Description|
